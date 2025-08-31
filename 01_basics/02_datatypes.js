@@ -28,5 +28,9 @@ console.log(typeof null); //type is object
 console.log(typeof undefined); //undefined
 
 
+// what is datatypes in js?
+
+
+
 
 

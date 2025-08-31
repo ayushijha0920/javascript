@@ -15,6 +15,10 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 1 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
+
+let test = Boolean(10>9);
+console.log(test);
+
 // console.log(booleanIsLoggedIn);
 
 //1 => true; 0=> false
@@ -53,10 +57,9 @@ let gameCounter = 100
 
 ++gameCounter;
 
-console.log(gameCounter);
+// console.log(gameCounter);
  
 
 //link to study 
 // https://tc39.es/ecma262/#sec-abstract-operations
-
 
